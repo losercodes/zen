@@ -1,0 +1,30 @@
+{
+  "name": "@losercodes/zen",
+  "version": "1.0.0",
+  "description": "A lightweight (~20KB) JavaScript UI framework focused on minimalistic design",
+  "keywords": ["UI", "framework", "JavaScript"],
+  "homepage": "https://github.com/losercodes/zen#readme",
+  "bugs": {
+    "url": "https://github.com/losercodes/zen/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/losercodes/zen.git"
+  },
+  "license": "MIT",
+  "author": "Amanpandey (losercodes)",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "test": "test/zen"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+  "./index.js",
+  "./test/",
+  "./README.md"
+]
+
+}
