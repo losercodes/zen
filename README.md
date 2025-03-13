@@ -1,6 +1,7 @@
 # Zen
 
-![Zen Logo](https://your-logo-url.com)  
+![image](https://github.com/user-attachments/assets/a6c8d327-3afa-45c4-ac21-2edf172da0eb)
+ 
 *A lightweight (~20KB) JavaScript UI framework focused on minimalistic design.*
 
 ## 🚀 Features
